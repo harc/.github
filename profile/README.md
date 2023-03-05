@@ -1,4 +1,4 @@
-The Human Advancement Research Community (HARC) was a short-lived research group (2016—17) at [Y Combinator Research](https://ycr.org/). From the [announcement on the YC blog](https://www.ycombinator.com/blog/harc):
+The Human Advancement Research Community (HARC) was a short-lived research group (2016–17) at [Y Combinator Research](https://ycr.org/). From the [announcement on the YC blog](https://www.ycombinator.com/blog/harc):
 
 > This came out of a conversation that started between Alan Kay and me more than a year ago about how to invent future computing technologies; I’m delighted to finally be officially working with him and his group.  He is one of the smartest people I’ve ever met.
 >
